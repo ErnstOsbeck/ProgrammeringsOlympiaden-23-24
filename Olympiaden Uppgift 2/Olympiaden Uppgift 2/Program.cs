@@ -6,7 +6,7 @@ namespace uppgift_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("skriv in N");
+            Console.WriteLine("N?");
             int N = int.Parse(Console.ReadLine());
             int antal = 0;
             for (int i = 1; i < N; i++)
@@ -20,7 +20,7 @@ namespace uppgift_2
                     antal++;
                 }
             }
-            Console.WriteLine(antal);
+            Console.WriteLine("Svar: " + antal);
             Console.Read();
         }
     }
