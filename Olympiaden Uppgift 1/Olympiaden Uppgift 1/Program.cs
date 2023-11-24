@@ -6,12 +6,13 @@ namespace uppgift_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vilket ord vill du upprepa?");
+            Console.WriteLine("Ordet?");
             string ord = Console.ReadLine();
-            Console.WriteLine("Hur många gånger vill du upprepa det?");
+            Console.WriteLine("antal upprepningar?");
             int antal = int.Parse(Console.ReadLine());
             if ( antal < 10 && ord.Length < 10 ) 
             {
+                Console.Write(Svar: );
                 for (int i = 0; i < antal; i++)
                 {
                     Console.Write(ord);
