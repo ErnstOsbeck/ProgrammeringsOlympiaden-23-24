@@ -12,7 +12,7 @@ namespace uppgift_1
             int antal = int.Parse(Console.ReadLine());
             if ( antal < 10 && ord.Length < 10 ) 
             {
-                Console.Write(Svar: );
+                Console.Write("Svar: ");
                 for (int i = 0; i < antal; i++)
                 {
                     Console.Write(ord);
