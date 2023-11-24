@@ -1,0 +1,14 @@
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\bin\Debug\net6.0\Olympiaden Uppgift 1.exe
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\bin\Debug\net6.0\Olympiaden Uppgift 1.deps.json
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\bin\Debug\net6.0\Olympiaden Uppgift 1.runtimeconfig.json
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\bin\Debug\net6.0\Olympiaden Uppgift 1.dll
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\bin\Debug\net6.0\Olympiaden Uppgift 1.pdb
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.AssemblyInfoInputs.cache
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.AssemblyInfo.cs
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.csproj.CoreCompileInputs.cache
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.dll
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\refint\Olympiaden Uppgift 1.dll
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.pdb
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\Olympiaden Uppgift 1.genruntimeconfig.cache
+C:\Users\eros06001\source\repos\Olympiaden Uppgift 1\Olympiaden Uppgift 1\obj\Debug\net6.0\ref\Olympiaden Uppgift 1.dll
